@@ -4,4 +4,4 @@ This css is copy code(simply)
 # HTML
 # CSS
 # TAILWIND.CONFIG.JS
-Live link:
+Live link:https://saymaweb.github.io/Taliwind-project-2/
